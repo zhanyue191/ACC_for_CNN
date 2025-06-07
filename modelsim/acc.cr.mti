@@ -1,0 +1,253 @@
+D:/Project/acc_sim/rtl/FullConnectLayer.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/FullConnectLayer.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Full_Connect_Layer
+
+Top level modules:
+	Full_Connect_Layer
+
+} {} {}} D:/Project/acc_sim/rtl/InputBuffer.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/InputBuffer.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module InputBuffer
+
+Top level modules:
+	InputBuffer
+
+} {} {}} D:/Project/acc_sim/rtl/L1FullConnect.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1FullConnect.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1FullConnect
+
+Top level modules:
+	L1FullConnect
+
+} {} {}} D:/Project/acc_sim/rtl/L1RegSplice.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1RegSplice.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1RegSplice
+
+Top level modules:
+	L1RegSplice
+
+} {} {}} D:/Project/acc_sim/rtl/ConvLayer.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/ConvLayer.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module ConvLayer
+
+Top level modules:
+	ConvLayer
+
+} {} {}} D:/Project/acc_sim/rtl/L2ConvAdderTree.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2ConvAdderTree.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2ConvAdderTree
+
+Top level modules:
+	L2ConvAdderTree
+
+} {} {}} D:/Project/acc_sim/rtl/L2BiasMuxCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2BiasMuxCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2BiasMuxCtrl
+
+Top level modules:
+	L2BiasMuxCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/L1RAM.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1RAM.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1RAM
+
+Top level modules:
+	L1RAM
+
+} {} {}} D:/Project/acc_sim/rtl/L1FullCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1FullCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1FullCtrl
+
+Top level modules:
+	L1FullCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/L2FullCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2FullCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2FullCtrl
+
+Top level modules:
+	L2FullCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/L1FullLogic.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1FullLogic.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1FullLogic
+
+Top level modules:
+	L1FullLogic
+
+} {} {}} D:/Project/acc_sim/rtl/L1RsCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1RsCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1RsCtrl
+
+Top level modules:
+	L1RsCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/PixelDecoder.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/PixelDecoder.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module PixelDecoder
+
+Top level modules:
+	PixelDecoder
+
+} {} {}} D:/Project/acc_sim/rtl/L2RsCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2RsCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2RsCtrl
+
+Top level modules:
+	L2RsCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/Convolution.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/Convolution.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Convolution
+
+Top level modules:
+	Convolution
+
+} {} {}} D:/Project/acc_sim/rtl/L1ConvOutCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1ConvOutCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1ConvOutCtrl
+
+Top level modules:
+	L1ConvOutCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/BiasMux.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/BiasMux.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module BiasMux
+
+Top level modules:
+	BiasMux
+
+} {} {}} D:/Project/acc_sim/rtl/fullReg.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/fullReg.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module macReg
+
+Top level modules:
+	macReg
+
+} {} {}} D:/Project/acc_sim/rtl/Pool.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/Pool.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Pool
+
+Top level modules:
+	Pool
+
+} {} {}} D:/Project/acc_sim/rtl/Align.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/Align.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Align
+
+Top level modules:
+	Align
+
+} {} {}} D:/Project/acc_sim/rtl/L2FullConnect.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2FullConnect.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2FullConnect
+
+Top level modules:
+	L2FullConnect
+
+} {} {}} D:/Project/acc_sim/rtl/L2RegSplice.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2RegSplice.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2RegSplice
+
+Top level modules:
+	L2RegSplice
+
+} {} {}} D:/Project/acc_sim/rtl/FullConnect.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/FullConnect.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Full_Connect_Layer
+
+Top level modules:
+	Full_Connect_Layer
+
+} {} {}} D:/Project/acc_sim/rtl/RegFile.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/RegFile.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} D:/Project/acc_sim/rtl/L2RAM.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2RAM.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2RAM
+
+Top level modules:
+	L2RAM
+
+} {} {}} D:/Project/acc_sim/rtl/MaxOf4.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/MaxOf4.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module MaxOf4
+
+Top level modules:
+	MaxOf4
+
+} {} {}} D:/Project/acc_sim/rtl/L2FullLogic.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2FullLogic.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2FullLogic
+
+Top level modules:
+	L2FullLogic
+
+} {} {}} D:/Project/acc_sim/rtl/L1ConvInCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L1ConvInCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L1ConvInCtrl
+
+Top level modules:
+	L1ConvInCtrl
+
+} {} {}} D:/Project/acc_sim/tb/ACC_tb.v {1 {vlog -work work -stats=none D:/Project/acc_sim/tb/ACC_tb.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module acc_tb
+
+Top level modules:
+	acc_tb
+
+} {} {}} D:/Project/acc_sim/rtl/WinMux.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/WinMux.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module WinMux
+
+Top level modules:
+	WinMux
+
+} {} {}} D:/Project/acc_sim/rtl/Two2OneMux.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/Two2OneMux.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module Two2OneMux
+
+Top level modules:
+	Two2OneMux
+
+} {} {}} D:/Project/acc_sim/rtl/ReLU.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/ReLU.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module ReLU
+
+Top level modules:
+	ReLU
+
+} {} {}} D:/Project/acc_sim/rtl/L2ConvInCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2ConvInCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2ConvInCtrl
+
+Top level modules:
+	L2ConvInCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/FixPointMultiplier.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/FixPointMultiplier.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module FixPointMultiplier
+
+Top level modules:
+	FixPointMultiplier
+
+} {} {}} D:/Project/acc_sim/rtl/L2ConvOutCtrl.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/L2ConvOutCtrl.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module L2ConvOutCtrl
+
+Top level modules:
+	L2ConvOutCtrl
+
+} {} {}} D:/Project/acc_sim/rtl/FixPointAdder.v {1 {vlog -work work -stats=none D:/Project/acc_sim/rtl/FixPointAdder.v
+Model Technology ModelSim ALTERA vlog 10.3c Compiler 2014.09 Sep 20 2014
+-- Compiling module FixPointAdder
+
+Top level modules:
+	FixPointAdder
+
+} {} {}}

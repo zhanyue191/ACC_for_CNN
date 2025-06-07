@@ -1,0 +1,807 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/modelsim
+vACC
+Z0 !s110 1749281728
+!i10b 1
+!s100 ;8Wnal:RkASGTI_>NB4N10
+Il[]gACS:4zoN6Kg:cg9ZF3
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dD:/Project/acc_sim/modelsim
+Z3 w1729573524
+Z4 8D:/Project/acc_sim/rtl/ACC.v
+Z5 FD:/Project/acc_sim/rtl/ACC.v
+L0 1
+Z6 OV;L;10.3c;59
+r1
+!s85 0
+31
+Z7 !s108 1749281728.705000
+Z8 !s107 D:/Project/acc_sim/rtl/ACC.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/ACC.v|
+!i113 1
+Z10 o-work work
+n@a@c@c
+vacc_tb
+R0
+!i10b 1
+!s100 _@dSn]UnG3ZXdCYW89GP`2
+IUk?F[g7VUVoXZB;ifz?Wk3
+R1
+R2
+w1729255838
+8D:/Project/acc_sim/tb/ACC_tb.v
+FD:/Project/acc_sim/tb/ACC_tb.v
+L0 2
+R6
+r1
+!s85 0
+31
+!s108 1749281728.811000
+!s107 D:/Project/acc_sim/tb/ACC_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/tb/ACC_tb.v|
+!i113 1
+R10
+vAlign
+R0
+!i10b 1
+!s100 i9>gLS>NShV:9CeOTgVH_0
+If>_E0>fICJg:B`C^@^3DV1
+R1
+R2
+Z11 w1729152281
+8D:/Project/acc_sim/rtl/Align.v
+FD:/Project/acc_sim/rtl/Align.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.743000
+!s107 D:/Project/acc_sim/rtl/Align.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/Align.v|
+!i113 1
+R10
+n@align
+vBiasMux
+R0
+!i10b 1
+!s100 l9zVNMY^=SSR9>9BG`hh70
+IWECR>R]a9823:1UC2FNYU2
+R1
+R2
+R11
+8D:/Project/acc_sim/rtl/BiasMux.v
+FD:/Project/acc_sim/rtl/BiasMux.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.779000
+!s107 D:/Project/acc_sim/rtl/BiasMux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/BiasMux.v|
+!i113 1
+R10
+n@bias@mux
+vConvLayer
+Z12 !s110 1749281727
+!i10b 1
+!s100 7[3[P]ciOiKEH9oMVZ_:A3
+IUXj<kM?@NG8eCh3;MBQ333
+R1
+R2
+Z13 w1729152282
+8D:/Project/acc_sim/rtl/ConvLayer.v
+FD:/Project/acc_sim/rtl/ConvLayer.v
+L0 10
+R6
+r1
+!s85 0
+31
+!s108 1749281727.443000
+!s107 D:/Project/acc_sim/rtl/ConvLayer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/ConvLayer.v|
+!i113 1
+R10
+n@conv@layer
+vConvolution
+R12
+!i10b 1
+!s100 F?zLF[?^?]mMI>z_T@O<X2
+Ig5W9zT]X:8Z:7=4_eIS[H2
+R1
+R2
+R13
+8D:/Project/acc_sim/rtl/Convolution.v
+FD:/Project/acc_sim/rtl/Convolution.v
+L0 7
+R6
+r1
+!s85 0
+31
+!s108 1749281727.481000
+!s107 D:/Project/acc_sim/rtl/Convolution.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/Convolution.v|
+!i113 1
+R10
+n@convolution
+vFixPointAdder
+R12
+!i10b 1
+!s100 cL2^VSeU<F98E]i1Y<d0>1
+In>eln4[]6=ZSjRQSnJE@I0
+R1
+R2
+R13
+8D:/Project/acc_sim/rtl/FixPointAdder.v
+FD:/Project/acc_sim/rtl/FixPointAdder.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.519000
+!s107 D:/Project/acc_sim/rtl/FixPointAdder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/FixPointAdder.v|
+!i113 1
+R10
+n@fix@point@adder
+vFixPointMultiplier
+R12
+!i10b 1
+!s100 WXPA?_8Y@G]>KNTJDC4zK2
+IJiP^@:6b:DXOliSC:5VTZ1
+R1
+R2
+R13
+8D:/Project/acc_sim/rtl/FixPointMultiplier.v
+FD:/Project/acc_sim/rtl/FixPointMultiplier.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.555000
+!s107 D:/Project/acc_sim/rtl/FixPointMultiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/FixPointMultiplier.v|
+!i113 1
+R10
+n@fix@point@multiplier
+vFull_Connect_Layer
+R12
+!i10b 1
+!s100 oJol?]MH?=QReBl8>OcPm0
+I5YOVI]EgXL=ZQ<le]SQ981
+R1
+R2
+Z14 w1729152283
+8D:/Project/acc_sim/rtl/FullConnectLayer.v
+FD:/Project/acc_sim/rtl/FullConnectLayer.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.637000
+!s107 D:/Project/acc_sim/rtl/FullConnectLayer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/FullConnectLayer.v|
+!i113 1
+R10
+n@full_@connect_@layer
+vInputBuffer
+R12
+!i10b 1
+!s100 38bTVmzg?0Dg:kMGna[?11
+I3RTdQgEK:@Cn4@GfY:b=T3
+R1
+R2
+Z15 w1729152284
+8D:/Project/acc_sim/rtl/InputBuffer.v
+FD:/Project/acc_sim/rtl/InputBuffer.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.719000
+!s107 D:/Project/acc_sim/rtl/InputBuffer.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/InputBuffer.v|
+!i113 1
+R10
+n@input@buffer
+vL1ConvInCtrl
+R12
+!i10b 1
+!s100 DFTZ2dOS6C7]B:]BD?A[;1
+IN2;`>JlNAX4;F6RBIQ6[=2
+R1
+R2
+R15
+8D:/Project/acc_sim/rtl/L1ConvInCtrl.v
+FD:/Project/acc_sim/rtl/L1ConvInCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.752000
+!s107 D:/Project/acc_sim/rtl/L1ConvInCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1ConvInCtrl.v|
+!i113 1
+R10
+n@l1@conv@in@ctrl
+vL1ConvOutCtrl
+R12
+!i10b 1
+!s100 ;DF^Lo_;UVdfFce>80Djh0
+Id_;@cUOCiOgb1UlIJ:T2J3
+R1
+R2
+Z16 w1729152285
+8D:/Project/acc_sim/rtl/L1ConvOutCtrl.v
+FD:/Project/acc_sim/rtl/L1ConvOutCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.792000
+!s107 D:/Project/acc_sim/rtl/L1ConvOutCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1ConvOutCtrl.v|
+!i113 1
+R10
+n@l1@conv@out@ctrl
+vL1FullConnect
+R12
+!i10b 1
+!s100 C31[XiU4UmQCYMR4?D78J1
+IM?6]>nH<6FFSZccK`c@T<3
+R1
+R2
+R16
+8D:/Project/acc_sim/rtl/L1FullConnect.v
+FD:/Project/acc_sim/rtl/L1FullConnect.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.827000
+!s107 D:/Project/acc_sim/rtl/L1FullConnect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1FullConnect.v|
+!i113 1
+R10
+n@l1@full@connect
+vL1FullCtrl
+R12
+!i10b 1
+!s100 MC6a2Z3POkeeCX2Hk;ibP3
+I]aUTbYI7P3:@:4<VP8nG]0
+R1
+R2
+R16
+8D:/Project/acc_sim/rtl/L1FullCtrl.v
+FD:/Project/acc_sim/rtl/L1FullCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.859000
+!s107 D:/Project/acc_sim/rtl/L1FullCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1FullCtrl.v|
+!i113 1
+R10
+n@l1@full@ctrl
+vL1FullLogic
+R12
+!i10b 1
+!s100 aIh;;^;Rn^kGQJzJhAJ0`3
+IiYV_jL5gScnfTlbDQ_fYj0
+R1
+R2
+Z17 w1729152286
+8D:/Project/acc_sim/rtl/L1FullLogic.v
+FD:/Project/acc_sim/rtl/L1FullLogic.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.896000
+!s107 D:/Project/acc_sim/rtl/L1FullLogic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1FullLogic.v|
+!i113 1
+R10
+n@l1@full@logic
+vL1RAM
+R12
+!i10b 1
+!s100 aTfGKX84OLQZ:kXZ7hejR3
+I4_mmdL8XbXE8SoSKh]XMJ0
+R1
+R2
+R17
+8D:/Project/acc_sim/rtl/L1RAM.v
+FD:/Project/acc_sim/rtl/L1RAM.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.935000
+!s107 D:/Project/acc_sim/rtl/L1RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1RAM.v|
+!i113 1
+R10
+n@l1@r@a@m
+vL1RegSplice
+R12
+!i10b 1
+!s100 cgfaJfn7NRPSX7kc^elcQ1
+I1dbFE?aR7QF?Q3mnWM[0<0
+R1
+R2
+Z18 w1729152287
+8D:/Project/acc_sim/rtl/L1RegSplice.v
+FD:/Project/acc_sim/rtl/L1RegSplice.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.973000
+!s107 D:/Project/acc_sim/rtl/L1RegSplice.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1RegSplice.v|
+!i113 1
+R10
+n@l1@reg@splice
+vL1RsCtrl
+R0
+!i10b 1
+!s100 HaVJ<4eTU2=m1[7K58RYN1
+I1<kmck6TOFaSlLa_]V7n]0
+R1
+R2
+R18
+8D:/Project/acc_sim/rtl/L1RsCtrl.v
+FD:/Project/acc_sim/rtl/L1RsCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.016000
+!s107 D:/Project/acc_sim/rtl/L1RsCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L1RsCtrl.v|
+!i113 1
+R10
+n@l1@rs@ctrl
+vL2BiasMuxCtrl
+R0
+!i10b 1
+!s100 @PS8f]LJLaABXoR7BMQGn2
+IXX7UUkMPLXFBAC14j>DBT0
+R1
+R2
+R18
+8D:/Project/acc_sim/rtl/L2BiasMuxCtrl.v
+FD:/Project/acc_sim/rtl/L2BiasMuxCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.057000
+!s107 D:/Project/acc_sim/rtl/L2BiasMuxCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2BiasMuxCtrl.v|
+!i113 1
+R10
+n@l2@bias@mux@ctrl
+vL2ConvAdderTree
+R0
+!i10b 1
+!s100 NjE>SBhFbM4^icQZ]o]D`1
+I_@9j@lL6Mm5h6cj>m=BPF2
+R1
+R2
+R18
+8D:/Project/acc_sim/rtl/L2ConvAdderTree.v
+FD:/Project/acc_sim/rtl/L2ConvAdderTree.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.099000
+!s107 D:/Project/acc_sim/rtl/L2ConvAdderTree.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2ConvAdderTree.v|
+!i113 1
+R10
+n@l2@conv@adder@tree
+vL2ConvInCtrl
+R0
+!i10b 1
+!s100 X;M@_Ui;<KSSD578D:b333
+I_`I3G2DDAA?;HGPfMD63=2
+R1
+R2
+Z19 w1729152288
+8D:/Project/acc_sim/rtl/L2ConvInCtrl.v
+FD:/Project/acc_sim/rtl/L2ConvInCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.141000
+!s107 D:/Project/acc_sim/rtl/L2ConvInCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2ConvInCtrl.v|
+!i113 1
+R10
+n@l2@conv@in@ctrl
+vL2ConvOutCtrl
+R0
+!i10b 1
+!s100 e^f>M>^]hXd[;nDmKU4lF3
+IU59:IPg^k3Me;il7P8`Di2
+R1
+R2
+R19
+8D:/Project/acc_sim/rtl/L2ConvOutCtrl.v
+FD:/Project/acc_sim/rtl/L2ConvOutCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.179000
+!s107 D:/Project/acc_sim/rtl/L2ConvOutCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2ConvOutCtrl.v|
+!i113 1
+R10
+n@l2@conv@out@ctrl
+vL2FullConnect
+R0
+!i10b 1
+!s100 :nn[i=z01m;^WM8H2DCbn3
+I5YHC5;f1>cAf;cH5NVfQg1
+R1
+R2
+R19
+8D:/Project/acc_sim/rtl/L2FullConnect.v
+FD:/Project/acc_sim/rtl/L2FullConnect.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.214000
+!s107 D:/Project/acc_sim/rtl/L2FullConnect.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2FullConnect.v|
+!i113 1
+R10
+n@l2@full@connect
+vL2FullCtrl
+R0
+!i10b 1
+!s100 FI<dDz221D8A7oK]:Pemf3
+I3c2LfhzRFB3>X5LE:VJ?Y2
+R1
+R2
+R19
+8D:/Project/acc_sim/rtl/L2FullCtrl.v
+FD:/Project/acc_sim/rtl/L2FullCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.250000
+!s107 D:/Project/acc_sim/rtl/L2FullCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2FullCtrl.v|
+!i113 1
+R10
+n@l2@full@ctrl
+vL2FullLogic
+R0
+!i10b 1
+!s100 HSgZKL^0jEEAdzRRLPckW2
+I0_nRA:<3`?kAnT0YECegS2
+R1
+R2
+Z20 w1729152289
+8D:/Project/acc_sim/rtl/L2FullLogic.v
+FD:/Project/acc_sim/rtl/L2FullLogic.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.289000
+!s107 D:/Project/acc_sim/rtl/L2FullLogic.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2FullLogic.v|
+!i113 1
+R10
+n@l2@full@logic
+vL2RAM
+R0
+!i10b 1
+!s100 3G8=RG[P2]iZ`m=MF_XC03
+IM7Ta1PPMbS2Tm12j5A4dW3
+R1
+R2
+R20
+8D:/Project/acc_sim/rtl/L2RAM.v
+FD:/Project/acc_sim/rtl/L2RAM.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.338000
+!s107 D:/Project/acc_sim/rtl/L2RAM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2RAM.v|
+!i113 1
+R10
+n@l2@r@a@m
+vL2RegSplice
+R0
+!i10b 1
+!s100 YHUH:HT2nS^I=SoSR=[G@2
+I:zIAPZEhZeQ<?5;iX[fDf3
+R1
+R2
+R20
+8D:/Project/acc_sim/rtl/L2RegSplice.v
+FD:/Project/acc_sim/rtl/L2RegSplice.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.373000
+!s107 D:/Project/acc_sim/rtl/L2RegSplice.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2RegSplice.v|
+!i113 1
+R10
+n@l2@reg@splice
+vL2RsCtrl
+R0
+!i10b 1
+!s100 8=CA5khnm`mc9z@W6g8YY2
+IcaD:2555Jj3AaX@BahV>50
+R1
+R2
+R20
+8D:/Project/acc_sim/rtl/L2RsCtrl.v
+FD:/Project/acc_sim/rtl/L2RsCtrl.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.413000
+!s107 D:/Project/acc_sim/rtl/L2RsCtrl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/L2RsCtrl.v|
+!i113 1
+R10
+n@l2@rs@ctrl
+vLocalRAM
+R0
+!i10b 1
+!s100 ^D5Y@XlPI:SCj>MQCQMgn2
+I<VAiUbQ]TgGcN_9a<ZhLg2
+R1
+R2
+R3
+R4
+R5
+L0 373
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@local@r@a@m
+vLocalROM
+R0
+!i10b 1
+!s100 EA`@aE=jCNdcSo7km1bQ[1
+I?DCknXGc^OZ7emEY2GIL41
+R1
+R2
+R3
+R4
+R5
+L0 351
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@local@r@o@m
+vmacReg
+R12
+!i10b 1
+!s100 PiJe]JBkcN@@;XWX?@bil1
+Igh7P^J3Lcd?cg4N7=KS5N3
+R1
+R2
+R14
+8D:/Project/acc_sim/rtl/fullReg.v
+FD:/Project/acc_sim/rtl/fullReg.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281727.681000
+!s107 D:/Project/acc_sim/rtl/fullReg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/fullReg.v|
+!i113 1
+R10
+nmac@reg
+vMaxOf4
+R0
+!i10b 1
+!s100 1gV;WcN=gADFU;A_hMcFQ2
+IjVzfhX8g^fPXEh7;T9mh92
+R1
+R2
+Z21 w1729152290
+8D:/Project/acc_sim/rtl/MaxOf4.v
+FD:/Project/acc_sim/rtl/MaxOf4.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.450000
+!s107 D:/Project/acc_sim/rtl/MaxOf4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/MaxOf4.v|
+!i113 1
+R10
+n@max@of4
+vPixelDecoder
+R0
+!i10b 1
+!s100 nl7R7zWQTzF2Ce0mC19`D3
+IT2MQVk]YNg`d2_Q@W105W0
+R1
+R2
+R21
+8D:/Project/acc_sim/rtl/PixelDecoder.v
+FD:/Project/acc_sim/rtl/PixelDecoder.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.483000
+!s107 D:/Project/acc_sim/rtl/PixelDecoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/PixelDecoder.v|
+!i113 1
+R10
+n@pixel@decoder
+vPool
+R0
+!i10b 1
+!s100 _26W?DGL>=`ZR0nH7[5D^1
+II39TR9f:=aZ`@MM97^2N[1
+R1
+R2
+Z22 w1729152291
+8D:/Project/acc_sim/rtl/Pool.v
+FD:/Project/acc_sim/rtl/Pool.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.519000
+!s107 D:/Project/acc_sim/rtl/Pool.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/Pool.v|
+!i113 1
+R10
+n@pool
+vRegFile
+R0
+!i10b 1
+!s100 ma9Scg:I47i2lbB6=]E943
+I7=_SMAb5=WX4gCk;9lNIO1
+R1
+R2
+R22
+8D:/Project/acc_sim/rtl/RegFile.v
+FD:/Project/acc_sim/rtl/RegFile.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.563000
+!s107 D:/Project/acc_sim/rtl/RegFile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/RegFile.v|
+!i113 1
+R10
+n@reg@file
+vReLU
+R0
+!i10b 1
+!s100 _QgIG]7<UQi3oV]CIdN=11
+I]TUD8Tn293Wj0_DS?042n1
+R1
+R2
+R22
+8D:/Project/acc_sim/rtl/ReLU.v
+FD:/Project/acc_sim/rtl/ReLU.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.597000
+!s107 D:/Project/acc_sim/rtl/ReLU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/ReLU.v|
+!i113 1
+R10
+n@re@l@u
+vTwo2OneMux
+R0
+!i10b 1
+!s100 M26LU1glF=^D9N@H[a:m<3
+ImUlUXMCQ1fSe`fbVkARkL1
+R1
+R2
+Z23 w1729152292
+8D:/Project/acc_sim/rtl/Two2OneMux.v
+FD:/Project/acc_sim/rtl/Two2OneMux.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.630000
+!s107 D:/Project/acc_sim/rtl/Two2OneMux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/Two2OneMux.v|
+!i113 1
+R10
+n@two2@one@mux
+vWinMux
+R0
+!i10b 1
+!s100 JLgd@[BX1mX=WUabUSS6I2
+I2ljjIC5acJn@o7UcJW[_F0
+R1
+R2
+R23
+8D:/Project/acc_sim/rtl/WinMux.v
+FD:/Project/acc_sim/rtl/WinMux.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1749281728.666000
+!s107 D:/Project/acc_sim/rtl/WinMux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Project/acc_sim/rtl/WinMux.v|
+!i113 1
+R10
+n@win@mux
